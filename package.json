@@ -1,0 +1,21 @@
+{
+  "name": "app-cordova",
+  "version": "1.0.0",
+  "description": "training app with cordova",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vickysolo/app-cordova.git"
+  },
+  "author": "@Vickysolo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vickysolo/app-cordova/issues"
+  },
+  "homepage": "https://github.com/Vickysolo/app-cordova#readme"
+}
